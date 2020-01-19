@@ -1,1 +1,1 @@
-web: pybotweb.py 
+web: python pybotweb.py 
