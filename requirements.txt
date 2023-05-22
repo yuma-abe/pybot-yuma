@@ -1,5 +1,5 @@
 bottle==0.12.18
-requests==2.22.0
+requests==2.31.0
 pandas==0.25.3
 numpy==1.17.4
 pickleshare==0.7.5
